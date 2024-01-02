@@ -2,3 +2,5 @@
 *.go
 *.mod
 *.sum
+vevn
+*.hcl
