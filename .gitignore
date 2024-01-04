@@ -1,5 +1,4 @@
 *.py
-*.go
 *.mod
 *.sum
 vevn
